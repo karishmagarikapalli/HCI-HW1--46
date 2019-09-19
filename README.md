@@ -53,3 +53,16 @@ Functioning of the example elevator gif
 * Moving objects across floors
 
 
+## Rare Uses
+
+* Call for help in case of emergencies
+
+
+## Sequence of actions
+
+* Call for lift
+* When doors open enter
+* Click for the floor you want to get to
+* Wait for you to reach, when the lift arrives it will give out a signal, open doors, go out of the lift
+
+
