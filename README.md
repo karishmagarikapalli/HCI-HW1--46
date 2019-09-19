@@ -14,6 +14,8 @@ GitHub Repository - https://karishmagarikapalli.github.io/HCI-HW1--46/
 
 # Grade C:
 
+## Example Elevator
+
 Elevator in Sri Sai Nilayam, Hyderabad, Telangana, India - 500072
 
 ![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/Elevator%20Example%20Collage.jpeg)
@@ -22,4 +24,7 @@ Functioning of the example elevator gif
 
 ![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/HW1.Karishma_Garikapalli.gif)
 
+## Issues
 
+* One of the butoons in the elevator does not have a label
+* The butoons upon being clicked do not give any form of feedback to the user
