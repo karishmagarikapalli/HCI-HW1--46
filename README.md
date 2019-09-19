@@ -95,10 +95,6 @@ Functioning of the example elevator gif
 * Feedback
 * Buttons for emergencies (call, alarm and cancel) and utilities (fan and light, door open and close)
 
-New design peek
-
-![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/HW1.Karishma_Garikapalli%20(project%20Screenshot).png)
-
 
 
 # Grade A
@@ -106,6 +102,23 @@ New design peek
 
 ## Touch Screen
 
-![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/Execution.gif)
+![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/HW1.Karishma_Garikapalli%20(project%20Screenshot).png)
 
 * The screen size is 500*700
+
+
+## Interactive Features
+
+![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/Execution.gif)
+
+
+## Feedback
+
+* The general area of the button turns red when it is clicked or is active
+* The display show the current position of the lift or the funtion it is performing
+
+
+## Code
+
+https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/Interface.pde
+
