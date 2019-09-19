@@ -11,3 +11,7 @@ Presentation Page - https://github.com/karishmagarikapalli/HCI-HW1--46/blob/mast
 
 GitHub Repository - https://karishmagarikapalli.github.io/HCI-HW1--46/
 
+
+Grade C:
+
+Elevator in Sri Sai Nilayam, Hyderabad, Telangana, India - 500072
