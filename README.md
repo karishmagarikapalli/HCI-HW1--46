@@ -26,5 +26,18 @@ Functioning of the example elevator gif
 
 ## Issues
 
-* One of the butoons in the elevator does not have a label
-* The butoons upon being clicked do not give any form of feedback to the user
+* One of the buttons in the elevator does not have a label
+* The buttons upon being clicked do not give any form of feedback to the user
+* There are no buttons to call for help or to alert the authorities in case of emergency
+* The elevator is dark inside with no ventilation
+
+## Why is the current design bad?
+
+* A person using the elevator for the first time will not be able to navigate through all floors due to poor labelling
+* A person using the elevator for the first time will not understand if or not the button was pressed due to no feedback
+* In case of emergencies a person will not be able to call for help
+* People may feel claustrophobic due to poor ventilation and lack of lights and fans
+
+# Grade B
+
+
