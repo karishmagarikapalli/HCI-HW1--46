@@ -17,3 +17,7 @@ GitHub Repository - https://karishmagarikapalli.github.io/HCI-HW1--46/
 Elevator in Sri Sai Nilayam, Hyderabad, Telangana, India - 500072
 
 ![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/Elevator%20Example%20Collage.jpeg)
+
+Functioning of the example elevator gif
+
+![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/HW1.Karishma_Garikapalli.gif)
