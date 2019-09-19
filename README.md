@@ -14,6 +14,8 @@ GitHub Repository - https://karishmagarikapalli.github.io/HCI-HW1--46/
 
 # Grade C:
 
+
+
 ## Example Elevator
 
 Elevator in Sri Sai Nilayam, Hyderabad, Telangana, India - 500072
@@ -24,12 +26,14 @@ Functioning of the example elevator gif
 
 ![](https://github.com/karishmagarikapalli/HCI-HW1--46/blob/master/HW1.Karishma_Garikapalli.gif)
 
+
 ## Issues
 
 * One of the buttons in the elevator does not have a label
 * The buttons upon being clicked do not give any form of feedback to the user
 * There are no buttons to call for help or to alert the authorities in case of emergency
 * The elevator is dark inside with no ventilation
+
 
 ## Why is the current design bad?
 
@@ -38,6 +42,14 @@ Functioning of the example elevator gif
 * In case of emergencies a person will not be able to call for help
 * People may feel claustrophobic due to poor ventilation and lack of lights and fans
 
+
 # Grade B
+
+
+## Common Uses
+
+* Going up and down a building
+* Helping disabled people access floors
+* Moving objects across floors
 
 
